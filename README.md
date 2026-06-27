@@ -76,9 +76,9 @@ I specialize in designing secure, scalable infrastructure and automating securit
 
 ## 🏆 Certifications
 
-- 🛡 Palo Alto PCNSE
 - ☁ Microsoft SC-100
 - 🔍 Microsoft SC-200
+- 🛡 Palo Alto PCNSE
 - 🔐 Zero Trust Cyber Associate
 - 🌐 Aviatrix ACE
 - 🔷 Juniper JNCIA-SEC
@@ -99,8 +99,5 @@ I specialize in designing secure, scalable infrastructure and automating securit
 - CNAPP
 
 ## 📫 Connect
-
 www.linkedin.com/in/nkabhi
 
-Email:
-<your-email>
