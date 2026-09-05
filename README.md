@@ -1,7 +1,7 @@
 # Hi, I'm Abhi 👋
 
 ```yaml
-apiVersion: v1.2.b
+apiVersion: v1.2.c
 kind: Cyber Human
 metadata:
   callsign: NK
